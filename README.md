@@ -4,8 +4,8 @@ Students in VIT mess face issues with food quality but have no simple system to 
 This project builds a system where students can rate mess food and analyze quality.
 
 ## FEATURES
-Student login.
-Give feedback.
+# Student login.
+# Give feedback.
 View feedback.
 Average rating.
 Worst day detection.
